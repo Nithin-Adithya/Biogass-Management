@@ -1,5 +1,6 @@
 # Biogass-Management
-Prototype
+Prototype-
 https://www.figma.com/proto/UydDbGythIQq25lj5jPet2/Biogass-Management-(SE-Project)?node-id=0-1&t=qcyQ6ENofaKf7T5l-1
-Project Design
+
+Project Design-
 https://www.figma.com/design/UydDbGythIQq25lj5jPet2/Biogass-Management-(SE-Project)?node-id=0-1&t=qcyQ6ENofaKf7T5l-1
